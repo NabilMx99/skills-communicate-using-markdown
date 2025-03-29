@@ -4,3 +4,5 @@
 #### This is an h4 header
 ##### This is an h5 header
 ###### This is an h6 header
+
+![GitHub Image](https://miro.medium.com/v2/resize:fit:1400/1*JLYlSLSK8-AZo8gt9UdYqA.jpeg)
